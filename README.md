@@ -1,3 +1,3 @@
 # PhoneBookAPI
 
-Read project Rrport file for the steps after cloning the repository.
+Read project Report file for the steps after cloning the repository.
